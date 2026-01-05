@@ -4,7 +4,8 @@
   "description": "Instagram reels project",
   "main": "index.js",
   "scripts": {
-    "generate-urls": "node script.js"
+    "generate-urls": "node script.js",
+    "filter-urls": "node filter_images.js"
   },
   "keywords": [],
   "author": "",
