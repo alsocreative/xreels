@@ -1,0 +1,12 @@
+{
+  "name": "dopa.meme.hu",
+  "version": "1.0.0",
+  "description": "Instagram reels project",
+  "main": "index.js",
+  "scripts": {
+    "generate-urls": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
